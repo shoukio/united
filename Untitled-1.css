@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>page Title</title>
+   </head>
+   <body>>
+    <h2>Welcome To GFG</h2>?
+     <form>
+     <p>
+     <label>Username : <input type="text"/></label>
+     </p>
+     <p>
+     <label>Password :<input type="password"/></label>
+     </p>
+     <p>
+     <button type="submit">submit</button>
+     </p>
+     </form>
+     </body>
+     </html>
